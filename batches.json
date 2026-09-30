@@ -1,0 +1,25 @@
+{
+  "success": true,
+  "batches": [
+    {
+      "_id": "44743",
+      "id": 44743,
+      "name": "PRO BATCH 2.0 - 2027",
+      "byName": "Master Sahab / StudyBee",
+      "startDate": "2026",
+      "endDate": "2027",
+      "language": "Hinglish",
+      "previewImage": "assets/pro-batch-2.jpg",
+      "feeTotal": 0,
+      "type": "E_BATCH",
+      "source": "mastersahab",
+      "slug": "pro-batch-2-0-2027-44743",
+      "subBatches": [],
+      "mode": "Recorded",
+      "tagline": "Master Sahab / StudyBee",
+      "about": "PRO BATCH 2.0 - Class 10 Sanskrit by Master Sahab (StudyBee).",
+      "subjects": [],
+      "notes": []
+    }
+  ]
+}
